@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "Bot",
-    "password": "your_password",
+    "username": "forkBot",
+    "password": "forkbot",
     "type": "offline"
   },
 
   "server": {
-    "ip": "localhost:25565",
+    "ip": "Mathczs.aternos.me:35869",
     "version": "1.8.9"
   },
 
@@ -36,7 +36,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "12345678"
+      "password": "idkbot"
     },
 
     "anti-afk": {
